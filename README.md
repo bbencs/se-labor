@@ -1,4 +1,5 @@
-![Maven Build](https://github.com/bbencs/se-labor/actions/workflows/maven.yml/badge.svg)
+![Maven Build](https://github.com/bbencs/se-labor/actions/workflows/maven.yml/badge.svg) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 # SE Spaceship
 
